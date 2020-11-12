@@ -20,7 +20,6 @@ In this notebook we will use Space_Mission_Dataset. This DataSet includes all th
 - Prediction of Mission Status
 
 Our first objective is to find out the number of missions versus different features, and analyze various successes and failures of the space organisations worldwide. Our second goal is to implement several machine learning algorithms such as Logistic Regression, Decision Tree Classifier, Random Forest Classifier, Support Vector Classifier and XGBoost Classifier to predict whether the missions are successful or not. We will compare the results of these models to discover which algorithm works better for this specific dataset.
-
 </div>
 
 
