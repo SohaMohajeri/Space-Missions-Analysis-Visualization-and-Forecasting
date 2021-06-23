@@ -26,8 +26,6 @@ Our first objective is to find out the number of missions versus different featu
 
 
 
-
-
 <div align="justify">
 
 In this multiphase project, we used five datasets including Metal-CNT Sensor Dataset, Research Centers-Countries Dataset, Pt-CNT Sensor Dataset, Sulfur Cathode Properties Dataset and CNT Synthesis Dataset. These datasets were obtained from the chemical experiments and research carried out at the University of Washington.
